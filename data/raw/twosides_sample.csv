@@ -1,0 +1,161 @@
+drug1,drug2,side_effect,proportional_reporting_ratio,source
+Warfarin,Aspirin,Hemorrhage,45.2,TWOSIDES
+Warfarin,Aspirin,Hemorrhage,43.5,TWOSIDES
+Warfarin,Aspirin,Hemorrhage,51.3,TWOSIDES
+Warfarin,Aspirin,Hemorrhage,48.3,TWOSIDES
+Warfarin,Aspirin,Gastrointestinal Hemorrhage,38.1,TWOSIDES
+Warfarin,Aspirin,Gastrointestinal Hemorrhage,39.2,TWOSIDES
+Warfarin,Aspirin,Gastrointestinal Hemorrhage,34.2,TWOSIDES
+Warfarin,Aspirin,Gastrointestinal Hemorrhage,34.2,TWOSIDES
+Warfarin,Ibuprofen,Hemorrhage,52.3,TWOSIDES
+Warfarin,Ibuprofen,Hemorrhage,45.4,TWOSIDES
+Warfarin,Ibuprofen,Hemorrhage,58.0,TWOSIDES
+Warfarin,Ibuprofen,Hemorrhage,53.9,TWOSIDES
+Warfarin,Ibuprofen,Peptic Ulcer,29.4,TWOSIDES
+Warfarin,Ibuprofen,Peptic Ulcer,31.2,TWOSIDES
+Warfarin,Ibuprofen,Peptic Ulcer,25.2,TWOSIDES
+Warfarin,Ibuprofen,Peptic Ulcer,33.5,TWOSIDES
+Simvastatin,Amiodarone,Rhabdomyolysis,67.8,TWOSIDES
+Simvastatin,Amiodarone,Rhabdomyolysis,74.6,TWOSIDES
+Simvastatin,Amiodarone,Rhabdomyolysis,61.9,TWOSIDES
+Simvastatin,Amiodarone,Rhabdomyolysis,61.3,TWOSIDES
+Simvastatin,Amiodarone,Myopathy,71.2,TWOSIDES
+Simvastatin,Amiodarone,Myopathy,64.4,TWOSIDES
+Simvastatin,Amiodarone,Myopathy,67.0,TWOSIDES
+Simvastatin,Amiodarone,Myopathy,71.7,TWOSIDES
+Digoxin,Amiodarone,Toxicity,83.1,TWOSIDES
+Digoxin,Amiodarone,Toxicity,81.4,TWOSIDES
+Digoxin,Amiodarone,Toxicity,77.9,TWOSIDES
+Digoxin,Amiodarone,Toxicity,85.9,TWOSIDES
+Digoxin,Amiodarone,Bradycardia,91.4,TWOSIDES
+Digoxin,Amiodarone,Bradycardia,81.5,TWOSIDES
+Digoxin,Amiodarone,Bradycardia,85.7,TWOSIDES
+Digoxin,Amiodarone,Bradycardia,87.7,TWOSIDES
+Sertraline,Tramadol,Serotonin Syndrome,88.5,TWOSIDES
+Sertraline,Tramadol,Serotonin Syndrome,87.3,TWOSIDES
+Sertraline,Tramadol,Serotonin Syndrome,96.1,TWOSIDES
+Sertraline,Tramadol,Serotonin Syndrome,80.5,TWOSIDES
+Sertraline,Tramadol,Seizure,34.2,TWOSIDES
+Sertraline,Tramadol,Seizure,34.3,TWOSIDES
+Sertraline,Tramadol,Seizure,35.1,TWOSIDES
+Sertraline,Tramadol,Seizure,29.5,TWOSIDES
+Fluoxetine,Tramadol,Serotonin Syndrome,92.1,TWOSIDES
+Fluoxetine,Tramadol,Serotonin Syndrome,95.1,TWOSIDES
+Fluoxetine,Tramadol,Serotonin Syndrome,83.0,TWOSIDES
+Fluoxetine,Tramadol,Serotonin Syndrome,80.1,TWOSIDES
+Methotrexate,Ibuprofen,Nephrotoxicity,44.7,TWOSIDES
+Methotrexate,Ibuprofen,Nephrotoxicity,50.7,TWOSIDES
+Methotrexate,Ibuprofen,Nephrotoxicity,50.9,TWOSIDES
+Methotrexate,Ibuprofen,Nephrotoxicity,48.8,TWOSIDES
+Carbamazepine,Erythromycin,Neurotoxicity,56.3,TWOSIDES
+Carbamazepine,Erythromycin,Neurotoxicity,53.0,TWOSIDES
+Carbamazepine,Erythromycin,Neurotoxicity,49.5,TWOSIDES
+Carbamazepine,Erythromycin,Neurotoxicity,59.4,TWOSIDES
+Metformin,Furosemide,Lactic Acidosis,22.1,TWOSIDES
+Metformin,Furosemide,Lactic Acidosis,21.7,TWOSIDES
+Metformin,Furosemide,Lactic Acidosis,19.6,TWOSIDES
+Metformin,Furosemide,Lactic Acidosis,22.1,TWOSIDES
+Lisinopril,Spironolactone,Hyperkalemia,61.3,TWOSIDES
+Lisinopril,Spironolactone,Hyperkalemia,52.7,TWOSIDES
+Lisinopril,Spironolactone,Hyperkalemia,68.8,TWOSIDES
+Lisinopril,Spironolactone,Hyperkalemia,56.9,TWOSIDES
+Aspirin,Ibuprofen,Bleeding,18.4,TWOSIDES
+Aspirin,Ibuprofen,Bleeding,19.3,TWOSIDES
+Aspirin,Ibuprofen,Bleeding,17.4,TWOSIDES
+Aspirin,Ibuprofen,Bleeding,18.5,TWOSIDES
+Ciprofloxacin,Warfarin,Hemorrhage,49.2,TWOSIDES
+Ciprofloxacin,Warfarin,Hemorrhage,49.9,TWOSIDES
+Ciprofloxacin,Warfarin,Hemorrhage,44.5,TWOSIDES
+Ciprofloxacin,Warfarin,Hemorrhage,56.1,TWOSIDES
+Clarithromycin,Warfarin,Hemorrhage,55.7,TWOSIDES
+Clarithromycin,Warfarin,Hemorrhage,60.3,TWOSIDES
+Clarithromycin,Warfarin,Hemorrhage,63.0,TWOSIDES
+Clarithromycin,Warfarin,Hemorrhage,62.3,TWOSIDES
+Omeprazole,Clopidogrel,Myocardial Infarction,23.1,TWOSIDES
+Omeprazole,Clopidogrel,Myocardial Infarction,23.8,TWOSIDES
+Omeprazole,Clopidogrel,Myocardial Infarction,26.0,TWOSIDES
+Omeprazole,Clopidogrel,Myocardial Infarction,20.2,TWOSIDES
+Furosemide,Digoxin,Arrhythmia,38.9,TWOSIDES
+Furosemide,Digoxin,Arrhythmia,35.4,TWOSIDES
+Furosemide,Digoxin,Arrhythmia,33.6,TWOSIDES
+Furosemide,Digoxin,Arrhythmia,36.9,TWOSIDES
+Metoprolol,Verapamil,Bradycardia,74.2,TWOSIDES
+Metoprolol,Verapamil,Bradycardia,71.7,TWOSIDES
+Metoprolol,Verapamil,Bradycardia,69.1,TWOSIDES
+Metoprolol,Verapamil,Bradycardia,81.5,TWOSIDES
+Atenolol,Verapamil,Heart Block,69.8,TWOSIDES
+Atenolol,Verapamil,Heart Block,66.8,TWOSIDES
+Atenolol,Verapamil,Heart Block,65.2,TWOSIDES
+Atenolol,Verapamil,Heart Block,70.7,TWOSIDES
+Prednisolone,Ibuprofen,Peptic Ulcer,41.3,TWOSIDES
+Prednisolone,Ibuprofen,Peptic Ulcer,36.9,TWOSIDES
+Prednisolone,Ibuprofen,Peptic Ulcer,45.0,TWOSIDES
+Prednisolone,Ibuprofen,Peptic Ulcer,36.0,TWOSIDES
+Gabapentin,Morphine,Respiratory Depression,32.6,TWOSIDES
+Gabapentin,Morphine,Respiratory Depression,37.4,TWOSIDES
+Gabapentin,Morphine,Respiratory Depression,35.3,TWOSIDES
+Gabapentin,Morphine,Respiratory Depression,29.7,TWOSIDES
+Allopurinol,Amoxicillin,Rash,48.1,TWOSIDES
+Allopurinol,Amoxicillin,Rash,41.0,TWOSIDES
+Allopurinol,Amoxicillin,Rash,52.7,TWOSIDES
+Allopurinol,Amoxicillin,Rash,51.1,TWOSIDES
+Levothyroxine,Omeprazole,Hypothyroidism,19.3,TWOSIDES
+Levothyroxine,Omeprazole,Hypothyroidism,20.6,TWOSIDES
+Levothyroxine,Omeprazole,Hypothyroidism,20.9,TWOSIDES
+Levothyroxine,Omeprazole,Hypothyroidism,16.8,TWOSIDES
+Amlodipine,Simvastatin,Myopathy,28.4,TWOSIDES
+Amlodipine,Simvastatin,Myopathy,27.2,TWOSIDES
+Amlodipine,Simvastatin,Myopathy,25.1,TWOSIDES
+Amlodipine,Simvastatin,Myopathy,31.5,TWOSIDES
+Paracetamol,Warfarin,Increased INR,15.2,TWOSIDES
+Paracetamol,Warfarin,Increased INR,15.8,TWOSIDES
+Paracetamol,Warfarin,Increased INR,14.4,TWOSIDES
+Paracetamol,Warfarin,Increased INR,13.2,TWOSIDES
+Diazepam,Omeprazole,Sedation,17.8,TWOSIDES
+Diazepam,Omeprazole,Sedation,16.8,TWOSIDES
+Diazepam,Omeprazole,Sedation,16.9,TWOSIDES
+Diazepam,Omeprazole,Sedation,19.0,TWOSIDES
+Atorvastatin,Amlodipine,Myalgia,12.3,TWOSIDES
+Atorvastatin,Amlodipine,Myalgia,12.8,TWOSIDES
+Atorvastatin,Amlodipine,Myalgia,13.7,TWOSIDES
+Atorvastatin,Amlodipine,Myalgia,12.2,TWOSIDES
+Metformin,Alcohol,Lactic Acidosis,76.3,TWOSIDES
+Metformin,Alcohol,Lactic Acidosis,67.6,TWOSIDES
+Metformin,Alcohol,Lactic Acidosis,81.2,TWOSIDES
+Metformin,Alcohol,Lactic Acidosis,82.3,TWOSIDES
+Warfarin,Clarithromycin,Hemorrhage,58.9,TWOSIDES
+Warfarin,Clarithromycin,Hemorrhage,60.0,TWOSIDES
+Warfarin,Clarithromycin,Hemorrhage,63.7,TWOSIDES
+Warfarin,Clarithromycin,Hemorrhage,58.8,TWOSIDES
+Fluoxetine,Carbamazepine,Toxicity,31.4,TWOSIDES
+Fluoxetine,Carbamazepine,Toxicity,31.6,TWOSIDES
+Fluoxetine,Carbamazepine,Toxicity,30.7,TWOSIDES
+Fluoxetine,Carbamazepine,Toxicity,26.9,TWOSIDES
+Sertraline,Pethidine,Serotonin Syndrome,94.2,TWOSIDES
+Sertraline,Pethidine,Serotonin Syndrome,83.1,TWOSIDES
+Sertraline,Pethidine,Serotonin Syndrome,81.0,TWOSIDES
+Sertraline,Pethidine,Serotonin Syndrome,98.1,TWOSIDES
+Cyclosporine,Simvastatin,Rhabdomyolysis,82.1,TWOSIDES
+Cyclosporine,Simvastatin,Rhabdomyolysis,77.5,TWOSIDES
+Cyclosporine,Simvastatin,Rhabdomyolysis,82.3,TWOSIDES
+Cyclosporine,Simvastatin,Rhabdomyolysis,92.1,TWOSIDES
+Rifampicin,Warfarin,Reduced Anticoagulation,67.4,TWOSIDES
+Rifampicin,Warfarin,Reduced Anticoagulation,62.3,TWOSIDES
+Rifampicin,Warfarin,Reduced Anticoagulation,65.6,TWOSIDES
+Rifampicin,Warfarin,Reduced Anticoagulation,72.6,TWOSIDES
+Rifampicin,Oral Contraceptives,Contraceptive Failure,89.3,TWOSIDES
+Rifampicin,Oral Contraceptives,Contraceptive Failure,82.0,TWOSIDES
+Rifampicin,Oral Contraceptives,Contraceptive Failure,78.0,TWOSIDES
+Rifampicin,Oral Contraceptives,Contraceptive Failure,83.7,TWOSIDES
+Ketoconazole,Simvastatin,Myopathy,78.2,TWOSIDES
+Ketoconazole,Simvastatin,Myopathy,70.3,TWOSIDES
+Ketoconazole,Simvastatin,Myopathy,88.3,TWOSIDES
+Ketoconazole,Simvastatin,Myopathy,85.4,TWOSIDES
+Ritonavir,Simvastatin,Rhabdomyolysis,95.1,TWOSIDES
+Ritonavir,Simvastatin,Rhabdomyolysis,98.9,TWOSIDES
+Ritonavir,Simvastatin,Rhabdomyolysis,105.7,TWOSIDES
+Ritonavir,Simvastatin,Rhabdomyolysis,103.8,TWOSIDES
+Erythromycin,Carbamazepine,Neurotoxicity,54.8,TWOSIDES
+Erythromycin,Carbamazepine,Neurotoxicity,49.6,TWOSIDES
+Erythromycin,Carbamazepine,Neurotoxicity,61.3,TWOSIDES
+Erythromycin,Carbamazepine,Neurotoxicity,55.4,TWOSIDES

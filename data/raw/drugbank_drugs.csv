@@ -1,0 +1,90 @@
+drugbank_id,name,category,description
+DB00945,Aspirin,Analgesic/Antiplatelet,Salicylate NSAID and antiplatelet agent
+DB01050,Ibuprofen,NSAID,Non-selective COX inhibitor
+DB00316,Paracetamol,Analgesic,Para-aminophenol analgesic/antipyretic
+DB00331,Metformin,Antidiabetic,Biguanide antihyperglycemic
+DB01076,Atorvastatin,Statin,HMG-CoA reductase inhibitor
+DB00381,Amlodipine,CCB,Dihydropyridine calcium channel blocker
+DB00722,Lisinopril,ACE Inhibitor,Angiotensin-converting enzyme inhibitor
+DB00338,Omeprazole,PPI,Proton pump inhibitor
+DB00264,Metoprolol,Beta Blocker,Cardioselective beta-1 adrenergic blocker
+DB00678,Losartan,ARB,Angiotensin II receptor blocker
+DB00682,Warfarin,Anticoagulant,Vitamin K epoxide reductase inhibitor
+DB00758,Clopidogrel,Antiplatelet,P2Y12 ADP receptor antagonist
+DB01060,Amoxicillin,Antibiotic,Beta-lactam penicillin antibiotic
+DB00207,Azithromycin,Antibiotic,Macrolide antibiotic
+DB00537,Ciprofloxacin,Antibiotic,Fluoroquinolone antibiotic
+DB00254,Doxycycline,Antibiotic,Tetracycline antibiotic
+DB00916,Metronidazole,Antibiotic,Nitroimidazole antibiotic/antiprotozoal
+DB00196,Fluconazole,Antifungal,Triazole antifungal
+DB00635,Prednisone,Corticosteroid,Glucocorticoid anti-inflammatory
+DB00860,Prednisolone,Corticosteroid,Active glucocorticoid metabolite
+DB01234,Dexamethasone,Corticosteroid,Potent synthetic glucocorticoid
+DB01030,Sertraline,SSRI,Selective serotonin reuptake inhibitor
+DB00472,Fluoxetine,SSRI,Selective serotonin reuptake inhibitor
+DB01099,Fluvoxamine,SSRI,Selective serotonin reuptake inhibitor
+DB01175,Escitalopram,SSRI,S-enantiomer citalopram SSRI
+DB00215,Citalopram,SSRI,Racemic SSRI antidepressant
+DB00321,Amitriptyline,TCA,Tricyclic antidepressant
+DB01151,Desipramine,TCA,Tricyclic antidepressant
+DB00543,Amoxapine,TCA,Tricyclic antidepressant
+DB00829,Diazepam,Benzodiazepine,GABA-A receptor positive modulator
+DB00938,Alprazolam,Benzodiazepine,Short-acting benzodiazepine
+DB00454,Pethidine,Opioid,Phenylpiperidine opioid analgesic
+DB00318,Codeine,Opioid,Prodrug opioid analgesic
+DB00813,Fentanyl,Opioid,Potent synthetic opioid
+DB00697,Tramadol,Opioid,Weak opioid/SNRI analgesic
+DB00295,Morphine,Opioid,Prototype opioid analgesic
+DB01202,Levetiracetam,Anticonvulsant,SV2A-binding anticonvulsant
+DB00564,Carbamazepine,Anticonvulsant,Sodium channel anticonvulsant
+DB00252,Phenytoin,Anticonvulsant,Sodium channel stabiliser
+DB00313,Valproate,Anticonvulsant,GABA-transaminase inhibitor
+DB00555,Lamotrigine,Anticonvulsant,Voltage-gated sodium channel blocker
+DB00996,Gabapentin,Anticonvulsant,Alpha-2-delta calcium channel ligand
+DB00220,Nelfinavir,Antiviral,HIV protease inhibitor
+DB00625,Efavirenz,Antiviral,Non-nucleoside reverse transcriptase inhibitor
+DB00559,Bosentan,Antihypertensive,Endothelin receptor antagonist
+DB00175,Pravastatin,Statin,HMG-CoA reductase inhibitor
+DB01098,Rosuvastatin,Statin,HMG-CoA reductase inhibitor
+DB00641,Simvastatin,Statin,HMG-CoA reductase inhibitor
+DB01167,Itraconazole,Antifungal,Triazole antifungal
+DB01026,Ketoconazole,Antifungal,Imidazole antifungal/CYP3A4 inhibitor
+DB00091,Cyclosporine,Immunosuppressant,Calcineurin inhibitor
+DB01183,Naloxone,Opioid Antagonist,Opioid receptor antagonist
+DB00571,Propranolol,Beta Blocker,Non-selective beta adrenergic blocker
+DB01117,Atovaquone,Antimalarial,Mitochondrial electron transport inhibitor
+DB01045,Rifampicin,Antibiotic,RNA polymerase inhibitor/CYP inducer
+DB00503,Ritonavir,Antiviral,HIV protease inhibitor/CYP3A4 inhibitor
+DB00169,Cholecalciferol,Vitamin,Vitamin D3
+DB00999,Hydrochlorothiazide,Diuretic,Thiazide diuretic
+DB00519,Trandolapril,ACE Inhibitor,Prodrug ACE inhibitor
+DB01197,Captopril,ACE Inhibitor,First oral ACE inhibitor
+DB00199,Erythromycin,Antibiotic,Macrolide antibiotic/CYP3A4 inhibitor
+DB01211,Clarithromycin,Antibiotic,Macrolide antibiotic/CYP3A4 inhibitor
+DB01419,Deferasirox,Chelator,Iron chelating agent
+DB00773,Etoposide,Anticancer,Topoisomerase II inhibitor
+DB00398,Sorafenib,Anticancer,Multi-kinase inhibitor
+DB00619,Imatinib,Anticancer,BCR-ABL tyrosine kinase inhibitor
+DB00877,Sirolimus,Immunosuppressant,mTOR inhibitor
+DB01346,Quinidine,Antiarrhythmic,Class IA antiarrhythmic
+DB00784,Mefenamic Acid,NSAID,Fenamate NSAID
+DB00436,Meloxicam,NSAID,Preferential COX-2 inhibitor
+DB00500,Tolbutamide,Antidiabetic,First-generation sulfonylurea
+DB01182,Propafenone,Antiarrhythmic,Class IC antiarrhythmic
+DB00360,Sapropterin,Metabolic,Phenylalanine hydroxylase cofactor
+DB00675,Tamoxifen,Anticancer,Selective estrogen receptor modulator
+DB00988,Dopamine,Vasopressor,Catecholamine vasopressor
+DB00668,Epinephrine,Vasopressor,Catecholamine vasopressor
+DB00281,Lidocaine,Anaesthetic,Sodium channel local anaesthetic
+DB00993,Azathioprine,Immunosuppressant,Thiopurine immunosuppressant
+DB01041,Thalidomide,Immunomodulator,TNF-alpha inhibitor/teratogen
+DB00741,Hydrocortisone,Corticosteroid,Natural glucocorticoid
+DB00460,Paclitaxel,Anticancer,Microtubule stabiliser
+DB01009,Ketoprofen,NSAID,Propionic acid NSAID
+DB00563,Methotrexate,DMARD,Dihydrofolate reductase inhibitor
+DB00715,Paroxetine,SSRI,Potent CYP2D6 inhibitor SSRI
+DB00959,Methylprednisolone,Corticosteroid,Intermediate-acting glucocorticoid
+DB01115,Nifedipine,CCB,Dihydropyridine CCB
+DB00541,Vincristine,Anticancer,Vinca alkaloid
+DB00615,Rifabutin,Antibiotic,Rifamycin antibiotic
+DB01232,Saquinavir,Antiviral,HIV protease inhibitor

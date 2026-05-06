@@ -1,0 +1,409 @@
+drug,adverse_event,outcome,age_group,gender,report_id,source
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS5967934,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS9666477,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS5222334,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS2241052,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS3291430,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS2719313,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS4087955,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS6289083,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS2268950,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS4299041,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS6308512,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS7740081,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS2989246,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS7410313,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS5605267,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS5656381,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS1654544,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS8280980,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS2294375,FAERS
+Warfarin,Hemorrhage,Hospitalization,65+,F,FAERS6981506,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS3480724,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS9943151,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS7822392,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS4889085,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS8625904,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS8726953,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS9654947,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS8080316,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS8304603,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS1592162,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS4200993,FAERS
+Warfarin,Intracranial Hemorrhage,Death,65+,M,FAERS9890024,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS2593219,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS1461376,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS3741067,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS6047714,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS9725306,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS7432138,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS8466774,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS1210637,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS3448363,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS2626523,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS9577004,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS1191668,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS8888454,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS9694938,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS8594374,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS4776270,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS6218559,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS4280116,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS2955783,FAERS
+Ibuprofen,Gastrointestinal Bleeding,Hospitalization,45-64,M,FAERS6088613,FAERS
+Metformin,Lactic Acidosis,Death,45-64,M,FAERS7627128,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS2818380,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS4665361,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS7432257,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS7240307,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS9353072,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS5089819,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS8610710,FAERS
+Simvastatin,Rhabdomyolysis,Hospitalization,45-64,M,FAERS7928899,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS2962123,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS6776873,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS5790155,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS5223731,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS5998231,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS9435686,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS3079187,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS7351737,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS3786502,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS6843750,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS9428945,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS6779389,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS5673140,FAERS
+Amiodarone,Pulmonary Toxicity,Hospitalization,65+,M,FAERS4264611,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS3165551,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS3083309,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS3928656,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS6539461,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS4121423,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS1932136,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS3422528,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS8843677,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS2951206,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS9284220,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS3674548,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS4576574,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS1346060,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS6448003,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS8876231,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS9725478,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS1980934,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS2916045,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS6599644,FAERS
+Ciprofloxacin,Tendon Rupture,Disability,45-64,F,FAERS4560812,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS1249764,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS2269367,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS1219632,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS2884584,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS5505048,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS3910970,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS7053357,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS9933453,FAERS
+Ciprofloxacin,QT Prolongation,Hospitalization,65+,M,FAERS6422286,FAERS
+Sertraline,Serotonin Syndrome,Hospitalization,18-44,F,FAERS2888646,FAERS
+Sertraline,Serotonin Syndrome,Hospitalization,18-44,F,FAERS9444993,FAERS
+Sertraline,Serotonin Syndrome,Hospitalization,18-44,F,FAERS9541406,FAERS
+Tramadol,Seizure,Hospitalization,18-44,M,FAERS9557766,FAERS
+Tramadol,Seizure,Hospitalization,18-44,M,FAERS8164456,FAERS
+Tramadol,Seizure,Hospitalization,18-44,M,FAERS7047690,FAERS
+Tramadol,Seizure,Hospitalization,18-44,M,FAERS8576652,FAERS
+Tramadol,Seizure,Hospitalization,18-44,M,FAERS4108505,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS7533755,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS4838087,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS9698637,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS2639163,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS3288897,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS6947049,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS1101816,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS5241879,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS2479231,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS9145411,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS7823953,FAERS
+Methotrexate,Hepatotoxicity,Hospitalization,45-64,F,FAERS7992984,FAERS
+Carbamazepine,Stevens-Johnson Syndrome,Hospitalization,18-44,F,FAERS2831662,FAERS
+Carbamazepine,Stevens-Johnson Syndrome,Hospitalization,18-44,F,FAERS9597701,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS3599521,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS9220005,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS1275586,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS7808109,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS3596793,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS9725411,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS3056878,FAERS
+Phenytoin,Gingival Hyperplasia,Other,18-44,F,FAERS5599734,FAERS
+Valproate,Hepatotoxicity,Death,0-17,F,FAERS5213310,FAERS
+Valproate,Neural Tube Defect,Congenital Anomaly,18-44,F,FAERS2492619,FAERS
+Valproate,Neural Tube Defect,Congenital Anomaly,18-44,F,FAERS8984538,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS9562780,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS3058699,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS3595373,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS9698490,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS4920314,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS8553465,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS9531451,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS6329155,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS7214997,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS7089659,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS1970230,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS7089136,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS5990264,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS4816407,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS1811863,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS1891780,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS4988592,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS8743800,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS6993666,FAERS
+Aspirin,Gastrointestinal Bleeding,Hospitalization,65+,M,FAERS2635301,FAERS
+Clopidogrel,Thrombotic Thrombocytopenic Purpura,Hospitalization,45-64,M,FAERS5958881,FAERS
+Clopidogrel,Thrombotic Thrombocytopenic Purpura,Hospitalization,45-64,M,FAERS6220988,FAERS
+Clopidogrel,Thrombotic Thrombocytopenic Purpura,Hospitalization,45-64,M,FAERS7943951,FAERS
+Clopidogrel,Thrombotic Thrombocytopenic Purpura,Hospitalization,45-64,M,FAERS8318779,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS8156034,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS9317962,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS9054704,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS6928631,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS8654693,FAERS
+Diazepam,Respiratory Depression,Hospitalization,65+,M,FAERS2830193,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS6149527,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS9663705,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS4478714,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS5887853,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS5289672,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS5342517,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS7047001,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS4068259,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS5959811,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS2229254,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS3748071,FAERS
+Alprazolam,Dependence,Other,18-44,F,FAERS9653778,FAERS
+Fluoxetine,Suicidal Ideation,Hospitalization,0-17,F,FAERS4856806,FAERS
+Fluoxetine,Suicidal Ideation,Hospitalization,0-17,F,FAERS5848517,FAERS
+Fluoxetine,Suicidal Ideation,Hospitalization,0-17,F,FAERS8710888,FAERS
+Fluoxetine,Suicidal Ideation,Hospitalization,0-17,F,FAERS9300009,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS4079492,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS4372538,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS8060885,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS5397874,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS2071012,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS1060460,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS6117923,FAERS
+Amoxicillin,Anaphylaxis,Hospitalization,18-44,F,FAERS7456428,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS5388712,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS8287797,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS5042487,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS9224279,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS5938357,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS2089457,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS7161023,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS4485268,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS8505643,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS1619381,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS9763908,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS1341858,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS2783250,FAERS
+Doxycycline,Photosensitivity,Other,18-44,F,FAERS4458663,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS9486746,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS8210554,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS5071334,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS8666433,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS4669428,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS2102737,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS3837270,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS4667454,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS3861017,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS2581386,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS5385664,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS9933155,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS6041235,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS5607477,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS3642806,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS4501390,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS5344861,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS9878441,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS3326179,FAERS
+Prednisone,Osteoporosis,Disability,45-64,F,FAERS1371277,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS2554457,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS7068701,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS3394554,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS9230301,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS9338001,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS6960085,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS5322448,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS8657911,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS7726096,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS3018316,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS4235216,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS1440412,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS3008418,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS2698410,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS2841317,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS7238833,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS1963200,FAERS
+Lisinopril,Angioedema,Hospitalization,45-64,M,FAERS6020591,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS2995197,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1926588,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS8643497,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS4875921,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS9038622,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS2920006,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS2091546,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS7123079,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS6006157,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1542961,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1487246,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1300998,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS2899744,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS4701299,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS6623649,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS8040128,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1083048,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS3295422,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS1203085,FAERS
+Amlodipine,Peripheral Edema,Other,45-64,F,FAERS5262494,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS1796837,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS5171522,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS7354914,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9877549,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9533518,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS5477442,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9794971,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9645594,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9466798,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS6227168,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9916946,FAERS
+Digoxin,Toxicity,Hospitalization,65+,M,FAERS9424375,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS4253536,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS2830302,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS2561347,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS7678351,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS1093290,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS6619534,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS8751791,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS6501086,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS3034363,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS9895316,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS7052639,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS5476998,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS6826272,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS4632519,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS9965309,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS4936504,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS7215130,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS9637313,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS4527815,FAERS
+Furosemide,Hypokalemia,Hospitalization,65+,F,FAERS7999807,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS9747097,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS9428830,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS1635717,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS9325518,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS8986872,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS9871168,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS1789057,FAERS
+Metoprolol,Bradycardia,Hospitalization,65+,M,FAERS4756840,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS3120118,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS4315448,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS9409695,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS2880031,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS1262831,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS4090306,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS3530527,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS7141225,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS7350057,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS7767692,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS1540458,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS8667203,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS1691045,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS3099903,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS1327090,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS2460954,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS9102119,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS5433297,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS3941843,FAERS
+Atorvastatin,Myalgia,Other,45-64,M,FAERS8500445,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS7896819,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS4296305,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS2668473,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS8762665,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS1534875,FAERS
+Paracetamol,Hepatotoxicity,Death,18-44,M,FAERS6065962,FAERS
+Morphine,Respiratory Depression,Death,65+,M,FAERS2267314,FAERS
+Morphine,Respiratory Depression,Death,65+,M,FAERS4854441,FAERS
+Morphine,Respiratory Depression,Death,65+,M,FAERS2774063,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS8288391,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS8878125,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS1719500,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS4416858,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS2294062,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS6885819,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS3826535,FAERS
+Fentanyl,Overdose,Death,18-44,M,FAERS7229812,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS7684058,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS4885054,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS6786423,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS3411267,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS9211751,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS2805120,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS8188679,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS3451480,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS6625894,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS3271562,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS7487192,FAERS
+Tramadol,Dependence,Other,18-44,M,FAERS6595168,FAERS
+Gabapentin,Suicidal Ideation,Hospitalization,18-44,F,FAERS7336446,FAERS
+Gabapentin,Suicidal Ideation,Hospitalization,18-44,F,FAERS8234044,FAERS
+Levothyroxine,Cardiac Arrhythmia,Hospitalization,65+,F,FAERS6382578,FAERS
+Levothyroxine,Cardiac Arrhythmia,Hospitalization,65+,F,FAERS1606164,FAERS
+Levothyroxine,Cardiac Arrhythmia,Hospitalization,65+,F,FAERS6220531,FAERS
+Levothyroxine,Cardiac Arrhythmia,Hospitalization,65+,F,FAERS8604659,FAERS
+Levothyroxine,Cardiac Arrhythmia,Hospitalization,65+,F,FAERS9084169,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS9849009,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS6893704,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS6640417,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS9203287,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS6294610,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS9480879,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS4826107,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS1138771,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS1723097,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS5653182,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS8563782,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS5900839,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS4516727,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS8840751,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS8363655,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS2738228,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS9626269,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS5779463,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS2726712,FAERS
+Metformin,Vitamin B12 Deficiency,Other,45-64,F,FAERS3452964,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS8877191,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS8630763,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS9552639,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS3450666,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS9149110,FAERS
+Hydroxychloroquine,QT Prolongation,Hospitalization,45-64,F,FAERS3870531,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS5850209,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS1905981,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS2168674,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS4145996,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS6882792,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS9277801,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS4892124,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS9892047,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS7896173,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS5830148,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS8297828,FAERS
+Azithromycin,QT Prolongation,Hospitalization,65+,M,FAERS3841959,FAERS
+Clarithromycin,Hepatotoxicity,Hospitalization,45-64,M,FAERS5538087,FAERS
+Clarithromycin,Hepatotoxicity,Hospitalization,45-64,M,FAERS3919913,FAERS
+Clarithromycin,Hepatotoxicity,Hospitalization,45-64,M,FAERS3956219,FAERS
+Clarithromycin,Hepatotoxicity,Hospitalization,45-64,M,FAERS5914068,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS1120609,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS4194581,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS1086024,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS1196249,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS9486289,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS1337664,FAERS
+Fluconazole,QT Prolongation,Hospitalization,45-64,F,FAERS2241376,FAERS
