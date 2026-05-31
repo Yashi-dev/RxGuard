@@ -40,10 +40,4 @@ python app.py
 ```
 Open http://localhost:5000
 
-## Syllabus Coverage
-| Module | Usage |
-|--------|-------|
-| Python + NumPy/Pandas | Drug DB, data processing |
-| Search (BFS/A*) | Interaction graph traversal |
-| ML (SVM, RF, LR) | Severity classification |
-| Deep Learning (Keras) | ANN prediction + training curves |
+
