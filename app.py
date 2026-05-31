@@ -1,9 +1,15 @@
+import logging
 from flask import Flask, request, jsonify, render_template, send_from_directory
 from flask_cors import CORS
 import pandas as pd
 import numpy as np
 import os, pickle, base64
 from itertools import combinations
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s"
+)
 
 app = Flask(__name__)
 CORS(app)
@@ -76,7 +82,8 @@ def ml_predict(drug1, drug2):
         all_probs = {sev_inv.get(int(le_sev.inverse_transform([i])[0]), "none"):
                      round(float(p)*100) for i, p in enumerate(proba)}
         return label_str, conf, all_probs
-    except:
+    except Exception as e:
+        logging.warning(f"ml_predict failed for {drug1}+{drug2}: {e}")
         return "unknown", 50, {}
 
 # ── Helpers ────────────────────────────────────────────────────
@@ -192,7 +199,8 @@ def check():
                     warnings.append({"type":"age","icon":"👴","text":f"{drug} is high-risk in patients over 65 (Beers Criteria)."})
                 if age_int < 18 and dn == "aspirin":
                     warnings.append({"type":"age","icon":"👶","text":"Aspirin is contraindicated under 18 (Reye's syndrome)."})
-        except: pass
+        except ValueError:
+            pass
 
     nodes = [{"id":d,"category":drug_cat_map.get(d,"Unknown")} for d in drugs]
     links = [{"source":i["drug1"],"target":i["drug2"],"severity":i["severity"]}
