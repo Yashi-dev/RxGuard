@@ -9,7 +9,7 @@ print("=" * 60)
 print("RxGuard AI v2 — Data Setup")
 print("=" * 60)
 
-# 1. Drugs 
+# 1.  ───Drugs─────────────────────────────────
 print("\n[1/6] Creating drug database...")
 
 drugs = [
@@ -66,11 +66,11 @@ drug_df.drop_duplicates(subset=["name"], inplace=True)
 drug_df.to_csv(os.path.join(DATA_DIR, "drugs.csv"), index=False)
 print(f"   ✓ {len(drug_df)} drugs saved")
 
-# 2. Interactions
+# 2. ───Interactions─────────────────────────────────
 print("\n[2/6] Building interaction database...")
 
 interactions = [
-    # Severe
+    # ───Severe─────────────────────────────────
     ("Warfarin","Aspirin","severe",
      "Concurrent use significantly increases bleeding risk through complementary anticoagulant mechanisms.",
      "Use Paracetamol for pain relief instead of Aspirin.",
@@ -120,7 +120,7 @@ interactions = [
      "Avoid combination. Use Amlodipine (dihydropyridine CCB) instead of Verapamil.",
      "Additive AV node suppression through complementary mechanisms"),
 
-    # Moderate
+    # ───Moderate─────────────────────────────────
     ("Aspirin","Ibuprofen","moderate",
      "Ibuprofen blocks Aspirin binding to COX-1, reducing its antiplatelet effect and cardiovascular protection.",
      "Take Aspirin 2 hours before Ibuprofen or use Paracetamol for pain.",
@@ -174,7 +174,7 @@ interactions = [
      "Monitor blood glucose frequently. Consider alternative antibiotic.",
      "Ciprofloxacin stimulates insulin secretion and reduces hepatic glucose output"),
 
-    # Mild
+    # ───Mild─────────────────────────────────
     ("Aspirin","Atorvastatin","mild",
      "Minor pharmacokinetic interaction — generally well tolerated at standard doses.",
      "No significant action needed. Routine monitoring.",
@@ -206,7 +206,7 @@ int_df = pd.DataFrame(interactions,
 int_df.to_csv(os.path.join(DATA_DIR, "interactions.csv"), index=False)
 print(f"   ✓ {len(int_df)} interactions saved")
 
-# 3. Brand names 
+# 3. ───Brand names─────────────────────────────────
 print("\n[3/6] Creating brand name database...")
 
 brands = [
@@ -292,7 +292,7 @@ brand_df = pd.DataFrame(brands, columns=["brand","generic"])
 brand_df.to_csv(os.path.join(DATA_DIR, "brand_names.csv"), index=False)
 print(f"   ✓ {len(brand_df)} brand names saved")
 
-#4. Pregnancy unsafe drugs
+#4. ───Pregnancy unsafe drugs─────────────────────────────────
 print("\n[4/6] Creating pregnancy safety database...")
 
 preg_unsafe = [
@@ -307,7 +307,7 @@ pd.DataFrame({"drug": preg_unsafe}).to_csv(
     os.path.join(DATA_DIR, "pregnancy_unsafe.csv"), index=False)
 print(f"   ✓ {len(preg_unsafe)} pregnancy-unsafe drugs saved")
 
-#5. Allergy classes
+#5. ───Allergy classes─────────────────────────────────
 print("\n[5/6] Creating allergy class database...")
 
 allergy_data = [
@@ -324,7 +324,7 @@ pd.DataFrame(allergy_data, columns=["drug","allergy_class"]).to_csv(
     os.path.join(DATA_DIR, "allergy_classes.csv"), index=False)
 print(f"   ✓ {len(allergy_data)} allergy mappings saved")
 
-#6. Verify
+#6. ───Verify─────────────────────────────────
 print("\n[6/6] Verifying all data files...")
 files = ["drugs.csv","interactions.csv","brand_names.csv","pregnancy_unsafe.csv","allergy_classes.csv"]
 for f in files:
