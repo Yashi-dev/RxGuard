@@ -38,5 +38,5 @@ python download_datasets.py
 python train_model.py
 python app.py
 ```
-
+Open http://localhost:5000
 
